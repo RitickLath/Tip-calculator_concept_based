@@ -65,13 +65,6 @@ A functional component that calculates and displays the total cost based on the 
 
 A functional component that renders a button to reset all state variables using the `resetAll` function passed as a prop. This exemplifies child-to-parent communication, as it allows a child component to trigger a state change in the parent component (`App`).
 
-## How to Run
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Run `npm install` to install the required dependencies.
-4. Run `npm start` to start the development server.
-5. Open your browser and go to `http://localhost:3000` to view the application.
 
 ## Usage
 
